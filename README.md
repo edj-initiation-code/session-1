@@ -14,3 +14,11 @@ Initiation à Github et architecture du web
 - Session 9 : Sélecteurs javascript et SVG (*Dessiner avec des données*)
 - Sessions 10 et 11 : Frameworks réactifs (*Adapter une application web*)
 - Session 12 : Révisions :)
+
+## Exposés
+
+2 exposés par séance
+**3 minutes maxi par sujet** : Soyez concis et allez à l'essentiel
+
+(Liste des sujets et attribution par séance)[https://docs.google.com/spreadsheets/d/1GXkiEZ1TJeetHr60InzMmQV-m5D3NbL6TUdf5gvO-J0/edit?usp=sharing]
+

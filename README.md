@@ -100,4 +100,3 @@ Pour vous joindre à Github, commencez par :
 - Partagez votre username pour faire partie de l'organisation "Initiation au code"
 - Téléchargez ou ouvrez le logiciel [Github Desktop](https://desktop.github.com/) et identifiez-vous
 - Clonez ce projet en cherchant Session 1 dans la boite de dialogue "Ajouter un projet"
-- cloner un projet pour le faire évoluer soi-même (**fork**)

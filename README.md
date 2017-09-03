@@ -94,3 +94,10 @@ Github permet de :
 - publier ses projets simples gratuitement
 
 Par exemple, toutes mes modifications sur cette page sont consultables ici : https://github.com/edj-initiation-code/session-1/commits/master/README.md
+
+Pour vous joindre à Github, commencez par : 
+- [Créer un compte](https://github.com/join)
+- Partagez votre username pour faire partie de l'organisation "Initiation au code"
+- Téléchargez ou ouvrez le logiciel [Github Desktop](https://desktop.github.com/) et identifiez-vous
+- Clonez ce projet en cherchant Session 1 dans la boite de dialogue "Ajouter un projet"
+- cloner un projet pour le faire évoluer soi-même (**fork**)

@@ -22,3 +22,8 @@ Initiation à Github et architecture du web
 
 [Liste des sujets et attribution par séance](https://docs.google.com/spreadsheets/d/1GXkiEZ1TJeetHr60InzMmQV-m5D3NbL6TUdf5gvO-J0/edit?usp=sharing)
 
+## L'architecture du web
+
+Le **serveur** contient du code HTML, CSS ou Javascript, des images, des vidéos, des documents, ou un logiciel capable de générer ce type de fichiers.
+
+Le **client** interroge le serveur via un navigateur web, et traduit les instructions du code dans un contenu visible à l’écran

@@ -41,7 +41,9 @@ Le client utilise un **navigateur internet** pour traduire les instructions du c
 >Pour modifier le rendu de [la page d'accueil du Monde](https://www.lemonde.fr/), faites clic-droit sur un élément, puis *Inspecter l'élement*.
 
 Le **HTML** est le langage qui permet de structurer une page web, en mettant chaque élément dans un bloc.
+
 Le **CSS** est le langage qui permet de définir une mise en forme pour chaque bloc.
+
 Le **Javascript** permet d'interagir avec ces blocs, et de modifier leur contenu ou leur style *dynamiquement*.
 
 Démonstration : [Style switcher](http://etalx.com/jquery-style-switcher/tests/)
@@ -52,9 +54,9 @@ Avant d'envoyer son propre site sur un serveur, il faut en écrire les fichiers 
 
 Pour cela, on peut utiliser un simple éditeur de texte comme le bloc-note, ou opter pour un éditeur avancé comme [**Sublime Text**](https://www.sublimetext.com/).
 
-Règle 1 : ne pas utiliser d'accents ou d'espaces dans les noms de fichiers
-Règle 2 : nommer la page d'accueil index.html
-Règle 3 : utiliser un seul dossier racine par projet
+- Règle 1 : ne pas utiliser d'accents ou d'espaces dans les noms de fichiers
+- Règle 2 : nommer la page d'accueil index.html
+- Règle 3 : utiliser un seul dossier racine par projet
 
 Pour qu'une page HTML soit valide, il faut qu'elle contienne à minima le code suivant, qui est son squelette : 
 

@@ -34,11 +34,11 @@ Le client utilise un **navigateur internet** pour traduire les instructions du c
 
 ![OpenClassrooms](https://s3-eu-west-1.amazonaws.com/sdz-upload/prod/upload/54d0e588bb668.jpg)
 
-Pour consulter le code source de [la page d'accueil de Wikipedia](https://www.wikipedia.org/), faites clic-droit, puis *Afficher la source*.
+> Sur le web, le code-source de la page est toujours consultable, et son rendu est même modifiable.
 
-Sur le web, le code-source de la page est toujours consultable, et son rendu est même modifiable.
+> Pour consulter le code source de [la page d'accueil de Wikipedia](https://www.wikipedia.org/), faites clic-droit, puis *Afficher la source*.
 
-Pour modifier le rendu de [la page d'accueil du Monde](https://www.lemonde.fr/), faites clic-droit sur un élément, puis *Inspecter l'élement*.
+>Pour modifier le rendu de [la page d'accueil du Monde](https://www.lemonde.fr/), faites clic-droit sur un élément, puis *Inspecter l'élement*.
 
 Le **HTML** est le langage qui permet de structurer une page web, en mettant chaque élément dans un bloc.
 Le **CSS** est le langage qui permet de définir une mise en forme pour chaque bloc.

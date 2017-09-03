@@ -26,4 +26,48 @@ Initiation à Github et architecture du web
 
 Le **serveur** contient du code HTML, CSS ou Javascript, des images, des vidéos, des documents, ou un logiciel capable de générer ce type de fichiers.
 
-Le **client** interroge le serveur via un navigateur web, et traduit les instructions du code dans un contenu visible à l’écran
+Le **client** interroge le serveur via un navigateur web, et télécharge ces fichiers.
+
+![OpenClassrooms](https://user.oc-static.com/files/122001_123000/122572.png)
+
+Le client utilise un **navigateur internet** pour traduire les instructions du code dans un contenu visible à l’écran.
+
+[La page d'accueil de wikipedia](https://www.wikipedia.org/) et [**son code source**](view-source:https://www.wikipedia.org/)
+
+![OpenClassrooms] (https://s3-eu-west-1.amazonaws.com/sdz-upload/prod/upload/54d0e588bb668.jpg)
+
+Le **HTML** est le langage qui permet de structurer une page web, en mettant chaque élément dans un bloc.
+Le **CSS** est le langage qui permet de définir une mise en forme pour chaque bloc.
+Le **Javascript** permet d'interagir avec ces blocs, et de modifier leur contenu ou leur style *dynamiquement*.
+
+Démonstration : [Style switcher](http://etalx.com/jquery-style-switcher/tests/)
+
+## Écrire du code
+
+Avant d'envoyer son propre site sur un serveur, il faut en écrire les fichiers sur son poste **local**.
+
+Pour cela, on peut utiliser un simple éditeur de texte comme le bloc-note, ou opter pour un éditeur avancé comme [**Sublime Text**](https://www.sublimetext.com/).
+
+Règle 1 : ne pas utiliser d'accents ou d'espaces dans les noms de fichiers
+Règle 2 : nommer la page d'accueil index.html
+Règle 3 : utiliser un seul dossier racine par projet
+
+Pour qu'une page HTML soit valide, il faut qu'elle contienne à minima le code suivant, qui est son squelette : 
+
+`html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Définition de l'encodage des charactères en UTF-8 -->
+    <meta charset="utf-8">
+    
+    <title>Texte de l'onglet de navigateur</title>
+  </head>
+  <body>
+    <!-- Le contenu d'une page s'écrit entre les balises body -->
+    <h1>Mon premier titre</h1>
+    
+    <p>Mon premier paragraphe de texte</p>
+  </body>
+</html>
+`

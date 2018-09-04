@@ -20,7 +20,7 @@ Initiation à Github et architecture du web
 2 exposés par séance
 **3 minutes maxi par sujet** : Soyez concis et allez à l'essentiel
 
-[Liste des sujets et attribution par séance](https://docs.google.com/spreadsheets/d/1GXkiEZ1TJeetHr60InzMmQV-m5D3NbL6TUdf5gvO-J0/edit?usp=sharing)
+[Liste des sujets et attribution par séance](https://docs.google.com/spreadsheets/d/12mMkmrgDcq6msBmsVaJ3vH1OqoeYSvgbMJ5HgXGtzQU/edit)
 
 ## L'architecture du web
 
